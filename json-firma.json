@@ -1,0 +1,25 @@
+[{
+        "name": "Sabel",
+        "mitarbeiter": [{
+                "vorname": "Anna",
+                "nachname": "Arm"
+            },
+            {
+                "vorname": "Berta",
+                "nachname": "Bein"
+            }
+        ]
+    },
+    {
+        "name": "Sabel",
+        "mitarbeiter": [{
+                "vorname": "Carla",
+                "nachname": "Copf"
+            },
+            {
+                "vorname": "Dora",
+                "nachname": "Da"
+            }
+        ]
+    }
+]
